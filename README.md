@@ -2,12 +2,11 @@
 
 ## I'm a Software Engineer, based in London UK!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my React JS and Javascript skills
+- 🔭 I’m currently working on improving my Javascript skills
 - 🌱 I’m currently learning JS, React, SASS and C#
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been working professionally in tech for 8 years and just started my github in 2022 😄
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="hdcodesdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
